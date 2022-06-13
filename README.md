@@ -15,7 +15,7 @@ Performance excellence, self-motivation, and perseverance are the primary elemen
 - 📓 I'm currently a student at App Academy!
 - 💪 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love golfing / snowboarding
+- ⚡ Fun fact: I love golf / snowboard
 
 <h3 align='left'>Languages and Tools:</h3>
 
