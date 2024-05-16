@@ -10,9 +10,8 @@ Performance excellence, self-motivation, and perseverance are the primary elemen
 <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> -->
 
-## I'm a Full-Stack Developer!!
+## I'm a Data Analyst!!
 
-- 📓 I'm currently a student at App Academy!
 - 💪 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love golf / snowboard
